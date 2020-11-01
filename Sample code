@@ -1,0 +1,4 @@
+from gg_checker import GG
+
+bot = GG(gg_token, bot_id, user_id)
+bot.has_voted()
